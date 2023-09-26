@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Quizizz ChatGPT
+// @name         Quizizz GPT
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description   integrates ChatGPT with Quizizz to answer questions
+// @description  integrates ChatGPT with Quizizz to answer questions
 // @author       RannStudio
 // @match        *://quizizz.com/join
 // @match        *://quizizz.com/*
