@@ -2,7 +2,7 @@
 // @name         Quizizz ChatGPT
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  try to take over the world!
+// @description   integrates ChatGPT with Quizizz to answer questions
 // @author       RannStudio
 // @match        *://quizizz.com/join
 // @match        *://quizizz.com/*
